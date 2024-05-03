@@ -1,0 +1,17 @@
+# Archivos de compilación y ejecutables
+*.o
+*.out
+
+# Archivos generados por el compilador
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archivos de dependencias
+*.d
+
+# Carpetas generadas por compiladores o herramientas
+/bin/
+/build/
+/.vscode/
